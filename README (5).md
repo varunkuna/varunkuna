@@ -1,5 +1,5 @@
-<img src="https://github.com/HarshChaudhary1312/HarshChaudhary1312/blob/main/Data%20Analyst%20Banner.gif?raw=true" height="420">
-<h2 align="center">Hi 👋! My name is Harsh Chaudhary .</h2>
+<img src="(https://github.com/varunkuna/Profile/blob/main/README%20.md?plain=1)/Data%20Analyst%20Banner.gif?raw=true" height="420">
+<h2 align="center">Hi 👋! My name is Varun.K .</h2>
 
 ###
 
@@ -8,8 +8,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HarshChaudhary1312&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshChaudhary1312&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=merko&hide_border=true" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=varunkuna&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varunkuna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=merko&hide_border=true" height="160" alt="languages graph"  />
 </div>
 
 ###
@@ -43,16 +43,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/harsh_.1312/" target="_blank">
+  <a href="(https://www.instagram.com/varunkuna_07?igsh=MTFyNzdrMzRndzBqNg==)/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
 
   </a>
-  <a href="https://www.linkedin.com/in/harsh-chaudhary-28389a248/" target="_blank">
+  <a href=(https://www.linkedin.com/in/varun-kuna-5a97bb238)/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
     
-  </a>
-  <a href="https://linktr.ee/harsh_1312" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="linktree logo"  />
   </a>
 </div>
 
