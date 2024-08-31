@@ -1,6 +1,5 @@
 <img src="Data Analyst Banner.gif" height="420">
 <h2 align="center">Hi 👋! My name is Varun.K .</h2>
-###
 <h3 align="center">I'm a 4th year B.Tech CSE student from SRM IST-RAMAPURAM and I'm a passionate Data Analyst.</h3>
 
 ###
