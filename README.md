@@ -1,4 +1,4 @@
-<img src="https://github.com/HarshChaudhary1312/HarshChaudhary1312/blob/main/Data%20Analyst%20Banner.gif?raw=true" height="420">
+<img src="https://github.com/varunkuns/varunkuna/blob/main/Data%20Analyst%20Banner.gif?raw=true" height="420">
 <img src="(https://github.com/varunkuna/Profile/blob/main/README%20.md?plain=1)/Data%20Analyst%20Banner.gif?raw=true" height="420">
 <h2 align="center">Hi 👋! My name is Varun.K .</h2>
 
